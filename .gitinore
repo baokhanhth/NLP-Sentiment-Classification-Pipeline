@@ -5,3 +5,5 @@ __pycache__/
 final_project/.gradio/
 
 final_project/processed/
+
+final_project/models/
