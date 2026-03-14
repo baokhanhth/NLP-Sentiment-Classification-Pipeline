@@ -1,8 +1,4 @@
 # NLP-Sentiment-Classification-Pipeline
-
-**Course:** AI in Business  
-**Project Title:** Leveraging Large Language Models (LLMs) for Automated User Sentiment Classification.
-
 ---
 
 ## Project Overview
