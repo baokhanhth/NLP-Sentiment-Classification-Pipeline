@@ -55,7 +55,7 @@ This project is deployed on **Hugging Face Spaces** using **Gradio** for a real-
 * **Framework:** Gradio for the UI.
 * **Storage:** Managed via **Git LFS** to handle large model weights.
 * 
-### 📖 How to use:
+### How to use:
 1. Enter any Vietnamese text (comment, review, or feedback) into the textbox.
 2. Click **Submit**.
 3. The system will classify the text into: **Positive, Negative, or Neutral** along with the confidence score.
