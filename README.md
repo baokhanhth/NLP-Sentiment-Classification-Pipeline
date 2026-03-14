@@ -48,3 +48,18 @@ The project is designed with a vision for integration into real-world systems:
 ├── run_*.py                 # Automated workflow execution scripts
 └── README.md                # Project documentation and reports
 ```
+## 🚀 Live Demo & Deployment
+
+This project is deployed on **Hugging Face Spaces** using **Gradio** for a real-time user interface. You can test the model's performance directly without any local installation.
+
+### 🌐 [Click here to open the Live Demo](https://huggingface.co/spaces/Arus152/NLP-Sentiment-Classification-Pipeline)
+
+### 🛠 Deployment Technical Stack:
+* **Host:** Hugging Face Spaces (CPU Basic).
+* **Framework:** Gradio for the UI.
+* **Storage:** Managed via **Git LFS** to handle large model weights.
+* 
+### 📖 How to use:
+1. Enter any Vietnamese text (comment, review, or feedback) into the textbox.
+2. Click **Submit**.
+3. The system will classify the text into: **Positive, Negative, or Neutral** along with the confidence score.
