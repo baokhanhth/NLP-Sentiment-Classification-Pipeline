@@ -54,7 +54,6 @@ This project is deployed on **Hugging Face Spaces** using **Gradio** for a real-
 * **Host:** Hugging Face Spaces (CPU Basic).
 * **Framework:** Gradio for the UI.
 * **Storage:** Managed via **Git LFS** to handle large model weights.
-* 
 ### How to use:
 1. Enter any Vietnamese text (comment, review, or feedback) into the textbox.
 2. Click **Submit**.
